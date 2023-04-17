@@ -1,0 +1,22 @@
+{
+  "name": "interfaces-vs-types",
+  "version": "1.0.0",
+  "description": "A collection of type and interface declarations to demonstrate the differences between interfaces and types.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --watch 'src/**' --ext 'ts,json' --ignore 'src/**/*.spec.ts' --exec 'ts-node src/app.ts'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevRocketCode/interfaces-vs-types.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "18.15.11",
+    "nodemon": "2.0.22",
+    "ts-node": "10.9.1",
+    "typescript": "5.0.4"
+  }
+}
