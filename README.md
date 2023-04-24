@@ -4,7 +4,7 @@ A collection of type and interface declarations to demonstrate the differences b
 ## Code Along
 We've created code-alongs to go with this repo.  Find them here:
 [Video Tutorial](https://www.youtube.com/watch?v=wQ-CWKhnCJc)
-[Blog Post with explanations](https://www.youtube.com/watch?v=wQ-CWKhnCJc)
+[Blog Post with explanations](https://devrocket.io/blog/2023/04/typescript-interface-vs-type/)
 
 ## Getting Started
 
